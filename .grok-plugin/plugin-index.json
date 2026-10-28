@@ -1293,8 +1293,8 @@
       }
     },
     "synergieloc": {
-      "sha": "8fcdb5b25f7742f6bc5172a69937837564b18d17",
-      "version": "1.0.0",
+      "sha": "356392962a74d2387a821a27455a18437e697e9c",
+      "version": "1.0.1",
       "components": {
         "mcpServers": [
           {
